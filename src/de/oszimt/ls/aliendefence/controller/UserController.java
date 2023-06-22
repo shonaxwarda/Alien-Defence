@@ -1,6 +1,7 @@
-package de.oszimt.ls.aliendefence.toDo;
+package de.oszimt.ls.aliendefence.controller;
 
 import de.oszimt.ls.aliendefence.model.persistence.IUserPersistance;
+import de.oszimt.ls.aliendefence.model.User;
 
 /**
  * de.oszimt.ls.aliendefence.controller for users
